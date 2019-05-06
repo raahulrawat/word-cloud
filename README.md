@@ -14,6 +14,7 @@ https://github.com/raahulrawat/Entity_extraction
 
 
 Requirements:
+
 matplotlib
 wordcloud
 ```
