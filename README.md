@@ -11,4 +11,9 @@ For generating word cloud in Python, modules needed are – matplotlib, pandas a
 For entity extraction refer this repo:
 https://github.com/raahulrawat/Entity_extraction
 
+
+
+Requirements:
+matplotlib
+wordcloud
 ```
